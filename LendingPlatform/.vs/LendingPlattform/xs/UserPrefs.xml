@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{A1324772-DF72-4760-8183-5A4A083C3B64}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ProjectController.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="17" Column="10" />
+      <File FileName="Controllers/ProjectController.cs" Line="72" Column="68" />
+      <File FileName="Controllers/ApiController.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LendingPlattform" expanded="True">
+            <Node name="LendingPlattform" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ProjectController.cs" selected="True" />
+              </Node>
+              <Node name="Internal" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LendingPlatform PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/andrevallentin/Code/github.com/engels-voelkers/LendingPlatform/Data/Models/ViewModels/FundingViewModel.cs" relfile="Data/Models/ViewModels/FundingViewModel.cs" line="26" column="1" />
+      <Breakpoint file="/Users/andrevallentin/Code/github.com/engels-voelkers/LendingPlatform/Controllers/ProjectController.cs" relfile="Controllers/ProjectController.cs" line="73" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
