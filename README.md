@@ -11,7 +11,7 @@ To make testing easier, I provided in the main-folder a Postman-Collection which
 Just make sure you create an environment with the following values:
 
 - Variable: "url"
-- Initial Value: "https://localhost:5001"
+- Initial Value: the current localhost ip
 
 # testing
 
