@@ -8,7 +8,7 @@ The project itself needs only to be compiled and can be used right away. It will
 
 To make testing easier, I provided in the main-folder a Postman-Collection which can be imported.
 
-Just make sure you create an environemnt with the following values:
+Just make sure you create an environment with the following values:
 
 - Variable: "url"
 - Initial Value: "https://localhost:5001"
