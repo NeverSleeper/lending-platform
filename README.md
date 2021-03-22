@@ -13,7 +13,7 @@ Just make sure you create an environemnt with the following values:
 - Variable: "url"
 - Initial Value: "https://localhost:5001"
 
-# Testing
+# testing
 
 To test the application I suggest the following order: 
 
@@ -24,7 +24,7 @@ To test the application I suggest the following order:
 3. Go into the Users folder and look into the different users and see their values.
 
 
-# Additional Notes
+# additional notes
 
 I tried to use Dependency Injection for the Context, but sadly could not resolve it.
 
